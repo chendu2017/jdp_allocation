@@ -1,2 +1,3 @@
 # jdp_allocation
-Code will be made publicly available upon acceptance. 
+Code for the NeurIPS conference version is available on OpenReview
+https://openreview.net/forum?id=6ArNmbMpKF
