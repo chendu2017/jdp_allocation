@@ -1,2 +1,2 @@
 # jdp_allocation
-development in progress
+Code will be made publicly available upon acceptance. 
